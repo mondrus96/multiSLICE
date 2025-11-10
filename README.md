@@ -39,7 +39,7 @@ install.packages(c("clime", "glasso", "huge", "RSpectra", "Matrix", "pracma"))
 
 ## Simulated data study
 
-We consider two challenging simulation studies, which are motivated by structures in neuroimaging (Yatsenko et al., 2015). We compare our method with CNJGL (2014; Mohan et al.), MLGGM (2016; Lin et al.), BJEMGM (2019; Gan et al.), CFR (2021; Price et al.), BANS (2021; Ha et al.), JMMLE (2022; Majumdar and Michailidis), LRGQ (2022; Chang et al.), and coglasso (2024; Albanese et al.).
+We consider three challenging simulation settings, which are motivated by structures in neuroimaging (Yatsenko et al., 2015). We compare our method with CNJGL (2014; Mohan et al.), MLGGM (2016; Lin et al.), BJEMGM (2019; Gan et al.), CFR (2021; Price et al.), BANS (2021; Ha et al.), JMMLE (2022; Majumdar and Michailidis), LRGQ (2022; Chang et al.), and coglasso (2024; Albanese et al.).
 
 <figure align="center">
   <img
