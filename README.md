@@ -6,6 +6,10 @@ All code and experiments reproducing the results in *A Latent Multilayer Graphic
 
 **Simulations** - Contains all simulation code, organized into subdirectories for each simulation.
 
+## Quick Start
+
+`examples.R` contains a minimum working example of the simulated data generation process, model selection via `cv.multislice.R`, and parameter estimation via `multislice.R`.
+
 ## Methodology
 
 We propose a multilayer latent Gaussian graphical model. We are interested in maximizing the following multilayer Gaussian likelihood function, 
