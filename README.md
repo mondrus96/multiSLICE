@@ -1,4 +1,4 @@
-All code and experiments reproducing the results in *A Latent Multilayer Graphical Model For Complex, Interdependent Systems*. This repository is organized as following:
+All code and experiments reproducing the results in *A Latent Multilayer Graphical Model For Complex, Interdependent Systems* accepted at *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*. This repository is organized as following:
 
 **Core** - Code implementing all methods, as well as additional helper functions. multiSLICE functions include `multislice.R`, `slice.R`, and `cv.multislice.R`.
 
